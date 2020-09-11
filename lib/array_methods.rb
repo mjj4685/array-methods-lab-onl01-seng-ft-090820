@@ -1,9 +1,9 @@
-def create_an_array
-  	create_an_array=["wow","am","black","arrays!"]
-end
 
 def using_include(array, element)
+  
+  create_an_array=["wow","am","black","arrays!"]
  create_an_array.include?("wow")
+ 
 end
 
 def using_sort(array)
