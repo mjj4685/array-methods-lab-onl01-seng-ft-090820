@@ -1,9 +1,7 @@
 
 def using_include(array, element)
 
-  create_an_array=["wow","am","black","arrays!"]
-
- create_an_array.include?("food")
+   array.include?(element)
 
 end
 
